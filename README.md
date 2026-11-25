@@ -1,70 +1,146 @@
-# Lautaro Risso Bartalomey
+<p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img alt="Lautaro Risso Bartalomey — From the first customer conversation to software in production." src="assets/banner-light.svg" width="100%">
+</picture>
+</p>
 
-Product generalist who builds. I take work from the first customer conversation to software in production — and I run the commercial side that gets it sold.
+<p>
+  <a href="https://lautaro-risso.vercel.app/"><img alt="Portfolio" src="assets/btn-portfolio.svg" height="40"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/lautaro-risso-bartalomey"><img alt="LinkedIn" src="assets/btn-linkedin.svg" height="40"></a>&nbsp;
+  <a href="mailto:lautirissob@gmail.com"><img alt="Email: lautirissob@gmail.com" src="assets/btn-email.svg" height="40"></a>
+</p>
 
-Based in **Buenos Aires**, working remotely (UTC−3). Open to relocation. English C1/C2 · Spanish native · Italian basic.
+**Product generalist who builds.** I take work from the first customer conversation to software in production — and I run the commercial side that gets it sold. When something needs to exist, I build it myself with AI-assisted development (Claude Code, Cursor). I'm at my best where the role isn't fully defined yet.
 
-**Now:** co-founder of [Troppero](https://troppero.com) (livestock-management software for Argentine ranchers, pre-launch) and of Orka Studio, a two-person software studio.
+<sub>📍 Buenos Aires · remote (UTC−3) · open to relocation &nbsp;·&nbsp; English C1/C2 · Spanish native · Italian basic</sub>
 
-[Portfolio](https://lautaro-risso.vercel.app/) · [LinkedIn](https://linkedin.com/in/lautaro-risso-bartalomey) · lautirissob@gmail.com
+<br>
 
----
+## Now building
 
-## What I do
+<table>
+<tr>
+<td width="50%" valign="top">
 
-I work across product, growth, and client delivery. When something needs to exist, I build it myself with AI-assisted development (Claude Code, Cursor). I'm at my best where the role isn't fully defined yet.
+### Troppero &nbsp;<img alt="Pre-launch" src="https://img.shields.io/badge/pre--launch-C05619?style=flat-square">
+<sub><b>CO-FOUNDER · PRODUCT &amp; ENGINEERING</b> &nbsp;·&nbsp; Sep 2026 – present &nbsp;·&nbsp; <a href="https://troppero.com">troppero.com&nbsp;↗</a></sub>
 
-## Current work
+Livestock-management software for Argentine ranchers, about to launch. I own product and go-to-market, and I build it hands-on.
 
-**Troppero** — Co-founder, Product & Engineering (Sep 2026–present)  
-Livestock-management software for Argentine ranchers, about to launch. First rancher client is already tracking 500+ head of cattle. I own product and go-to-market, and I build the product hands-on: an offline-first PWA for fields with no signal, satellite paddock maps, a multi-tenant Supabase backend, and AI receipt extraction from a photo.
+- Offline-first PWA for fields with no signal
+- Satellite paddock maps
+- Multi-tenant Supabase backend
+- AI receipt extraction from a photo
 
-**Orka Studio** — Co-founder, Product & Commercial (Mar 2026–present)  
-A two-person software studio (with a technical co-founder). I run the full client cycle — prospecting, discovery, scoping, proposals, delivery — and I build. Selected work:
+</td>
+<td width="50%" valign="top">
 
-- **Gestiones Laborales** (shipped, in production) — AI recruiting platform for an HR consultancy. LLM pipeline that parses PDF/Word CVs: 180 candidates, 11 searches, 550+ work histories auto-parsed; now part of the client's daily routine.
-- **Hormimonte** (in build) — remote monitoring for a concrete plant: read-only PLC/HMI over Modbus TCP, through Node-RED into a web app, so the owner can read every batch from 180 km away.
-- **orka-brain** (self-built, live) — a governed knowledge base and custom AI-agent skills (planning, code review, QA, retrospectives) with a memory layer, so agents can pick up real client work with context.
+### Orka Studio &nbsp;<img alt="Several clients" src="https://img.shields.io/badge/several%20clients-30363D?style=flat-square">
+<sub><b>CO-FOUNDER · PRODUCT &amp; COMMERCIAL</b> &nbsp;·&nbsp; Mar 2026 – present</sub>
+
+A two-person software studio, with a technical co-founder. I run the full client cycle — prospecting, discovery, scoping, proposals, delivery — and I build.
+
+- **Gestiones Laborales** — AI recruiting platform for an HR consultancy
+- **Hormimonte** — remote monitoring for a concrete plant
+- **orka-brain** — governed knowledge base + AI-agent skills
+
+</td>
+</tr>
+</table>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/metrics-dark.svg">
+  <img alt="500+ head of cattle tracked by Troppero's first rancher client (pre-launch) · 550+ work histories auto-parsed and 180 candidates across 11 searches at Gestiones Laborales" src="assets/metrics-light.svg" width="100%">
+</picture>
+
+### Selected work at Orka
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**Gestiones Laborales**<br>
+<img alt="Shipped, in production" src="https://img.shields.io/badge/shipped%20·%20in%20production-2F6F4E?style=flat-square">
+
+AI recruiting platform for an HR consultancy. An LLM pipeline parses PDF/Word CVs — 180 candidates, 11 searches, 550+ work histories auto-parsed. Now part of the client's daily routine.
+
+<sub>Next.js · Vercel AI SDK · Claude</sub>
+
+</td>
+<td width="33%" valign="top">
+
+**Hormimonte**<br>
+<img alt="In build" src="https://img.shields.io/badge/in%20build-C05619?style=flat-square">
+
+Remote monitoring for a concrete plant: read-only PLC/HMI over Modbus TCP, through Node-RED into a web app, so the owner can read every batch from 180 km away.
+
+<sub>Modbus TCP · Node-RED · web app</sub>
+
+</td>
+<td width="33%" valign="top">
+
+**orka-brain**<br>
+<img alt="Self-built, live" src="https://img.shields.io/badge/self--built%20·%20live-30363D?style=flat-square">
+
+A governed knowledge base and custom AI-agent skills — planning, code review, QA, retrospectives — with a memory layer, so agents can pick up real client work with context.
+
+<sub>AI agents · memory layer</sub>
+
+</td>
+</tr>
+</table>
 
 ## Previously
 
-- **Ágora** (Jul 2025–Jul 2026) — Growth & Activation, core team, early-stage B2B SaaS (booking & scheduling). Owned activation and retention; shipped a three-channel churn-recovery system (Intercom, email, WhatsApp Business); built an internal Slack-triggered AI agent that queried Amplitude to surface onboarding drop-offs.
-- **Globant** (Dec 2024–Mar 2025) — Product Manager Trainee on a U.S. enterprise engagement: product discovery and requirements, in English, across design, engineering, and product teams.
+<table>
+<tr>
+<td width="24%" valign="top"><b>Ágora</b><br><sub>Jul 2025 – Jul 2026</sub></td>
+<td valign="top"><b>Growth &amp; Activation, core team</b> · early-stage B2B SaaS (booking &amp; scheduling)<br>Owned activation and retention. Shipped a three-channel churn-recovery system (Intercom, email, WhatsApp Business) and built an internal Slack-triggered AI agent that queried Amplitude to surface onboarding drop-offs.</td>
+</tr>
+<tr>
+<td valign="top"><b>Globant</b><br><sub>Dec 2024 – Mar 2025</sub></td>
+<td valign="top"><b>Product Manager Trainee</b> · U.S. enterprise engagement<br>Product discovery and requirements, in English, across design, engineering and product teams.</td>
+</tr>
+<tr>
+<td valign="top"><b>Sisu</b><br><sub>in discovery</sub></td>
+<td valign="top"><b>Business side</b> · an AI staff engineer for startup meetings<br>ICP, positioning, pricing, and discovery interviews with CTOs across LATAM.</td>
+</tr>
+</table>
 
-Also in discovery: **Sisu**, an AI staff engineer for startup meetings. I run the business side — ICP, positioning, pricing, and discovery interviews with CTOs across LATAM.
+## Toolkit
 
-## Stack
+**Product**<br>
+Discovery & user interviews · scoping · roadmap prioritization · activation / retention / churn · onboarding · pricing & go-to-market
 
-- **Product:** discovery & user interviews, scoping, roadmap prioritization, activation / retention / churn, onboarding, pricing & go-to-market
-- **Building with AI:** Claude Code, Cursor, LLM integration (Anthropic Claude API, Vercel AI SDK, vision extraction), AI agents, prompt iteration
-- **Engineering:** TypeScript, React, Next.js, Vite, Tailwind, PWA / offline-first (Dexie), Leaflet, Supabase, GitHub Actions, Playwright, Vitest, Vercel, Modbus TCP, Node-RED
+**Building with AI**<br>
+<img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-C05619?style=flat-square&logo=claude&logoColor=white">
+<img alt="Cursor" src="https://img.shields.io/badge/Cursor-30363D?style=flat-square&logo=cursor&logoColor=white">
+<img alt="Anthropic Claude API" src="https://img.shields.io/badge/Claude%20API-30363D?style=flat-square&logo=anthropic&logoColor=white">
+<img alt="Vercel AI SDK" src="https://img.shields.io/badge/Vercel%20AI%20SDK-30363D?style=flat-square&logo=vercel&logoColor=white">
+<img alt="LLM integration" src="https://img.shields.io/badge/LLM%20integration-30363D?style=flat-square">
+<img alt="Vision extraction" src="https://img.shields.io/badge/vision%20extraction-30363D?style=flat-square">
+<img alt="AI agents" src="https://img.shields.io/badge/AI%20agents-30363D?style=flat-square">
 
-## Education
+**Engineering**<br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Creact%2Cnextjs%2Cvite%2Ctailwind%2Csupabase%2Cgithubactions%2Cvitest%2Cvercel&theme=dark&perline=9"><img alt="TypeScript, React, Next.js, Vite, Tailwind, Supabase, GitHub Actions, Vitest, Vercel" src="https://skillicons.dev/icons?i=ts,react,nextjs,vite,tailwind,supabase,githubactions,vitest,vercel&theme=light&perline=9" height="44"></picture><br>
+<img alt="PWA / offline-first" src="https://img.shields.io/badge/PWA%20·%20offline--first-30363D?style=flat-square">
+<img alt="Dexie" src="https://img.shields.io/badge/Dexie-30363D?style=flat-square">
+<img alt="Leaflet" src="https://img.shields.io/badge/Leaflet-30363D?style=flat-square&logo=leaflet&logoColor=white">
+<img alt="Playwright" src="https://img.shields.io/badge/Playwright-30363D?style=flat-square">
+<img alt="Modbus TCP" src="https://img.shields.io/badge/Modbus%20TCP-30363D?style=flat-square">
+<img alt="Node-RED" src="https://img.shields.io/badge/Node--RED-30363D?style=flat-square&logo=nodered&logoColor=white">
 
-B.S. in Digital Business, UCEMA (2021–2025). Exchange at Sapienza Università di Roma (2024). Dock Startup Lab Accelerator, Rome (2024).
+<details>
+<summary><b>Education</b></summary>
+<br>
 
+- **B.S. in Digital Business** — UCEMA (2021–2025)
+- **Exchange** — Sapienza Università di Roma (2024)
+- **Dock Startup Lab Accelerator** — Rome (2024)
 
+</details>
 
+<br>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<p align="center"><sub>Building something where the role isn't fully defined yet? <a href="mailto:lautirissob@gmail.com">Let's talk</a>.</sub></p>
